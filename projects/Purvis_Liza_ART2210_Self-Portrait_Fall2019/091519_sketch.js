@@ -1,6 +1,9 @@
+var move=0
+
 function setup() {
   createCanvas (1000,1000);
   background(106, 19, 155 );
+
 }
 
 function draw(){
@@ -287,6 +290,23 @@ fill (246, 204, 245)
 noStroke
 triangle(580, 720, 400, 720, 486, 830);
 
+ //square across screen 
+ fill(0,0,0)
+ noStroke();
+ rect(310,400,10,move)
+
+ fill(0,0,0)
+ noStroke();
+ rect(680,400,10,move)
+
+ fill(0,0,0)
+ noStroke();
+ rect(600,390,10,move)
+
+
+
+
+ move=move+3;
 
 
 
