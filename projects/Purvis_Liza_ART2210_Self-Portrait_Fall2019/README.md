@@ -9,3 +9,4 @@ WPAP uses direction of flow as well, in other words, using the shape geometry to
 
 I wanted to avoid using heavy outlines, as it is my preferred style, and push myself to do something lighter. I only used an outline around the eyes because I wanted it to make sense for  my independent variable to be there, the runny eyeliner. However, I saw that it too can be a focal point for the viewer, despite my intended face geometry, due to how stark in contrast it is to the rest of the piece. 
 
+![](https://github.com/creativeCodingART2210Fall2019Section2/Purvis_Liza__ART2210_Fall2019/blob/master/projects/Purvis_Liza_ART2210_Self-Portrait_Fall2019/images/WPAP%202.jpg)
