@@ -1,1 +1,1 @@
-[image link](https://github.com/creativeCodingART2210Fall2019Section2/Purvis_Liza__ART2210_Fall2019/raw/master/projects/Purvis_Liza_ART2210_Self-Portrait_Fall2019/images/WPAP%20example.jpg)
+[image link test](https://github.com/creativeCodingART2210Fall2019Section2/Purvis_Liza__ART2210_Fall2019/raw/master/projects/Purvis_Liza_ART2210_Self-Portrait_Fall2019/images/WPAP%20example.jpg)
