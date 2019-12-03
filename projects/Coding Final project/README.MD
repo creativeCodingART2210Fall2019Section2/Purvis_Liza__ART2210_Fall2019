@@ -4,4 +4,4 @@ Since I wanted to add a winner’s screen, I also wanted to add a clearInterval 
 
 
 
-[CLICK HERE TO STUFF YOUR FACE](https://creativecodingart2210fall2019section2.github.io/Purvis_Liza__ART2210_Fall2019/projects/Coding Final project/2.0 Cupcake.html)
+[CLICK HERE TO STUFF YOUR FACE](https://creativecodingart2210fall2019section2.github.io/Purvis_Liza__ART2210_Fall2019/projects/Coding%20Final%20project/2.0%20Cupcake.html)
