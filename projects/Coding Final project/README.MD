@@ -1,5 +1,5 @@
 
-[CLICK HERE TO STUFF YOUR FACE](https://creativecodingart2210fall2019section2.github.io/Purvis_Liza__ART2210_Fall2019/projects/Coding%20Final%20project/2.0%20cupcake.html)
+[2.0CLICK HERE TO STUFF YOUR FACE](https://creativecodingart2210fall2019section2.github.io/Purvis_Liza__ART2210_Fall2019/projects/Coding%20Final%20project/2.0%20cupcake.html)
 
 For my final, my goal was to improve previous assets that I have created with project 2. I also wanted to incorporate my own new assets (original sprites) to make it look more polished. I also wanted to see if I could incorporate completely new elements, such as a win screen and a lose screen, however I only managed to create a win screen. I also wanted to program in obstacles, but with the logic that I was trying to implement, it didn't work out. So, in an effort to improve without keeping it the same, I focused more on the sprite development.
 
