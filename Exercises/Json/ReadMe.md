@@ -1,2 +1,2 @@
 
-[Json](https://github.com/creativeCodingART2210Fall2019Section2/Purvis_Liza__ART2210_Fall2019/raw/master/Exercises/Json/index.html)
+[Json](https://creativecodingart2210fall2019section2.github.io/Purvis_Liza__ART2210_Fall2019/Exercises/Json/index.html)
