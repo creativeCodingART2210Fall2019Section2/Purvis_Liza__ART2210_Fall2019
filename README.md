@@ -1,6 +1,7 @@
 # Purvis_Liza__ART2210_Fall2019
  
  # Class exercises
+ [Json](https://github.com/creativeCodingART2210Fall2019Section2/Purvis_Liza__ART2210_Fall2019/raw/master/Exercises/Json/index.html)
  
  # Projects
 [Purvis_Liza_Art-2210_Self-Portrait_Fall-2019](https://creativecodingart2210fall2019section2.github.io/Purvis_Liza__ART2210_Fall2019/projects/Purvis_Liza_ART2210_Self-Portrait_Fall2019/091519_index.html)
